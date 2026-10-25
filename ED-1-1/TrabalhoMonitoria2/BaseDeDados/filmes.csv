@@ -1,0 +1,437 @@
+titulo;ano;genero;diretor;rating
+Toy Story;1995;Adventure|Animation|Children|Comedy|Fantasy;Denis Villeneuve;3.9
+Jumanji;1995;Adventure|Children|Fantasy;George Lucas;3.4
+Grumpier Old Men;1995;Comedy|Romance;Peter Jackson;3.3
+Heat;1995;Action|Crime|Thriller;Ridley Scott;3.9
+Sabrina;1995;Comedy|Romance;Quentin Tarantino;3.2
+GoldenEye;1995;Action|Adventure|Thriller;Ridley Scott;3.5
+American President, The;1995;Comedy|Drama|Romance;Denis Villeneuve;3.7
+Casino;1995;Crime|Drama;Peter Jackson;3.9
+Sense and Sensibility;1995;Drama|Romance;George Lucas;3.8
+Ace Ventura: When Nature Calls;1995;Comedy;George Lucas;2.7
+Get Shorty;1995;Comedy|Crime|Thriller;Francis Ford Coppola;3.5
+Leaving Las Vegas;1995;Drama|Romance;Francis Ford Coppola;3.6
+Twelve Monkeys (a.k.a. 12 Monkeys);1995;Mystery|Sci-Fi|Thriller;Quentin Tarantino;4.0
+Babe;1995;Children|Drama;Ridley Scott;3.7
+Dead Man Walking;1995;Crime|Drama;Christopher Nolan;3.8
+Clueless;1995;Comedy|Romance;Francis Ford Coppola;3.3
+Seven (a.k.a. Se7en);1995;Mystery|Thriller;Christopher Nolan;4.0
+Pocahontas;1995;Animation|Children|Drama|Musical|Romance;Ridley Scott;3.1
+Usual Suspects, The;1995;Crime|Mystery|Thriller;Denis Villeneuve;4.2
+Mr. Holland's Opus;1995;Drama;Peter Jackson;3.7
+From Dusk Till Dawn;1996;Action|Comedy|Horror|Thriller;Francis Ford Coppola;3.5
+Broken Arrow;1996;Action|Adventure|Thriller;Ridley Scott;3.0
+Happy Gilmore;1996;Comedy;Denis Villeneuve;3.4
+Braveheart;1995;Action|Drama|War;Peter Jackson;4.0
+Taxi Driver;1976;Crime|Drama|Thriller;James Cameron;4.1
+Birdcage, The;1996;Comedy;Francis Ford Coppola;3.5
+Bad Boys;1995;Action|Comedy|Crime|Drama|Thriller;George Lucas;3.2
+Apollo 13;1995;Adventure|Drama|IMAX;Steven Spielberg;3.8
+Batman Forever;1995;Action|Adventure|Comedy|Crime;Christopher Nolan;2.9
+Casper;1995;Adventure|Children;Quentin Tarantino;2.8
+Congo;1995;Action|Adventure|Mystery|Sci-Fi;George Lucas;2.9
+Crimson Tide;1995;Drama|Thriller|War;Ridley Scott;3.6
+Desperado;1995;Action|Romance|Western;James Cameron;3.6
+Die Hard: With a Vengeance;1995;Action|Crime|Thriller;George Lucas;3.6
+First Knight;1995;Action|Drama|Romance;Francis Ford Coppola;3.1
+Johnny Mnemonic;1995;Action|Sci-Fi|Thriller;Steven Spielberg;2.7
+Judge Dredd;1995;Action|Crime|Sci-Fi;Martin Scorsese;2.7
+Net, The;1995;Action|Crime|Thriller;Steven Spielberg;3.0
+Waterworld;1995;Action|Adventure|Sci-Fi;Ridley Scott;2.9
+Clerks;1994;Comedy;James Cameron;3.9
+Disclosure;1994;Drama|Thriller;Denis Villeneuve;3.5
+Dumb & Dumber (Dumb and Dumber);1994;Adventure|Comedy;James Cameron;3.1
+Ed Wood;1994;Comedy|Drama;Francis Ford Coppola;3.7
+Interview with the Vampire: The Vampire Chronicles;1994;Drama|Horror;Peter Jackson;3.5
+Star Wars: Episode IV - A New Hope;1977;Action|Adventure|Sci-Fi;Martin Scorsese;4.2
+Legends of the Fall;1994;Drama|Romance|War|Western;Peter Jackson;3.4
+Natural Born Killers;1994;Action|Crime|Thriller;Christopher Nolan;3.2
+Outbreak;1995;Action|Drama|Sci-Fi|Thriller;Denis Villeneuve;3.4
+Léon: The Professional (a.k.a. The Professional) (Léon);1994;Action|Crime|Drama|Thriller;Martin Scorsese;4.0
+Pulp Fiction;1994;Comedy|Crime|Drama|Thriller;Peter Jackson;4.2
+Quiz Show;1994;Drama;Christopher Nolan;3.5
+Stargate;1994;Action|Adventure|Sci-Fi;Francis Ford Coppola;3.4
+Santa Clause, The;1994;Comedy|Drama|Fantasy;James Cameron;3.2
+Shawshank Redemption, The;1994;Crime|Drama;Christopher Nolan;4.4
+Star Trek: Generations;1994;Adventure|Drama|Sci-Fi;Denis Villeneuve;3.4
+What's Eating Gilbert Grape;1993;Drama;James Cameron;3.8
+While You Were Sleeping;1995;Comedy|Romance;James Cameron;3.5
+Ace Ventura: Pet Detective;1994;Comedy;Martin Scorsese;3.0
+Clear and Present Danger;1994;Action|Crime|Drama|Thriller;Denis Villeneuve;3.6
+Client, The;1994;Drama|Mystery|Thriller;Christopher Nolan;3.4
+Crow, The;1994;Action|Crime|Fantasy|Thriller;Ridley Scott;3.6
+Forrest Gump;1994;Comedy|Drama|Romance|War;Steven Spielberg;4.2
+Four Weddings and a Funeral;1994;Comedy|Romance;Peter Jackson;3.5
+Lion King, The;1994;Adventure|Animation|Children|Drama|Musical|IMAX;James Cameron;3.9
+Mask, The;1994;Action|Comedy|Crime|Fantasy;Steven Spielberg;3.2
+Maverick;1994;Adventure|Comedy|Western;Ridley Scott;3.5
+Naked Gun 33 1/3: The Final Insult;1994;Action|Comedy;Peter Jackson;3.1
+Speed;1994;Action|Romance|Thriller;Francis Ford Coppola;3.5
+True Lies;1994;Action|Adventure|Comedy|Romance|Thriller;Quentin Tarantino;3.5
+Addams Family Values;1993;Children|Comedy|Fantasy;Ridley Scott;3.1
+Beverly Hills Cop III;1994;Action|Comedy|Crime|Thriller;George Lucas;2.7
+City Slickers II: The Legend of Curly's Gold;1994;Adventure|Comedy|Western;James Cameron;2.6
+Cliffhanger;1993;Action|Adventure|Thriller;George Lucas;3.0
+Coneheads;1993;Comedy|Sci-Fi;James Cameron;2.4
+Dave;1993;Comedy|Romance;George Lucas;3.5
+Demolition Man;1993;Action|Adventure|Sci-Fi;Denis Villeneuve;3.1
+Firm, The;1993;Drama|Thriller;James Cameron;3.5
+Fugitive, The;1993;Thriller;Denis Villeneuve;4.0
+Hot Shots! Part Deux;1993;Action|Comedy|War;Francis Ford Coppola;2.9
+In the Line of Fire;1993;Action|Thriller;George Lucas;3.7
+Jurassic Park;1993;Action|Adventure|Sci-Fi|Thriller;Peter Jackson;3.8
+Last Action Hero;1993;Action|Adventure|Comedy|Fantasy;Peter Jackson;2.9
+Mrs. Doubtfire;1993;Comedy|Drama;George Lucas;3.4
+Philadelphia;1993;Drama;Steven Spielberg;3.6
+Piano, The;1993;Drama|Romance;Denis Villeneuve;3.5
+Robin Hood: Men in Tights;1993;Comedy;James Cameron;3.1
+Schindler's List;1993;Drama|War;Francis Ford Coppola;4.2
+Sleepless in Seattle;1993;Comedy|Drama|Romance;Peter Jackson;3.5
+Blade Runner;1982;Action|Sci-Fi|Thriller;George Lucas;4.1
+Nightmare Before Christmas, The;1993;Animation|Children|Fantasy|Musical;Martin Scorsese;3.6
+Three Musketeers, The;1993;Action|Adventure|Comedy|Romance;Ridley Scott;3.3
+Tombstone;1993;Action|Drama|Western;George Lucas;3.8
+True Romance;1993;Crime|Thriller;Ridley Scott;3.8
+Home Alone;1990;Children|Comedy;Denis Villeneuve;3.0
+Ghost;1990;Comedy|Drama|Fantasy|Romance|Thriller;Denis Villeneuve;3.4
+Aladdin;1992;Adventure|Animation|Children|Comedy|Musical;Quentin Tarantino;3.8
+Terminator 2: Judgment Day;1991;Action|Sci-Fi;Peter Jackson;4.0
+Dances with Wolves;1990;Adventure|Drama|Western;James Cameron;3.8
+Batman;1989;Action|Crime|Thriller;Ridley Scott;3.4
+Silence of the Lambs, The;1991;Crime|Horror|Thriller;Christopher Nolan;4.2
+Snow White and the Seven Dwarfs;1937;Animation|Children|Drama|Fantasy|Musical;George Lucas;3.6
+Beauty and the Beast;1991;Animation|Children|Fantasy|Musical|Romance|IMAX;Denis Villeneuve;3.8
+Pinocchio;1940;Animation|Children|Fantasy|Musical;Steven Spielberg;3.4
+Pretty Woman;1990;Comedy|Romance;Martin Scorsese;3.5
+Fargo;1996;Comedy|Crime|Drama|Thriller;Peter Jackson;4.1
+Mission: Impossible;1996;Action|Adventure|Mystery|Thriller;James Cameron;3.5
+Dragonheart;1996;Action|Adventure|Fantasy;George Lucas;3.1
+Space Jam;1996;Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi;Quentin Tarantino;2.7
+Truth About Cats & Dogs, The;1996;Comedy|Romance;Quentin Tarantino;3.4
+Rock, The;1996;Action|Adventure|Thriller;Denis Villeneuve;3.6
+Twister;1996;Action|Adventure|Romance|Thriller;Denis Villeneuve;3.3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;Comedy|War;James Cameron;4.3
+Trainspotting;1996;Comedy|Crime|Drama;Ridley Scott;4.0
+Independence Day (a.k.a. ID4);1996;Action|Adventure|Sci-Fi|Thriller;George Lucas;3.4
+Cable Guy, The;1996;Comedy|Thriller;Quentin Tarantino;2.8
+Eraser;1996;Action|Drama|Thriller;Christopher Nolan;3.1
+Nutty Professor, The;1996;Comedy|Fantasy|Romance|Sci-Fi;Quentin Tarantino;2.7
+Godfather, The;1972;Crime|Drama;Martin Scorsese;4.3
+Vertigo;1958;Drama|Mystery|Romance|Thriller;Francis Ford Coppola;4.0
+Rear Window;1954;Mystery|Thriller;Denis Villeneuve;4.3
+North by Northwest;1959;Action|Adventure|Mystery|Romance|Thriller;Francis Ford Coppola;4.2
+Casablanca;1942;Drama|Romance;Francis Ford Coppola;4.2
+Wizard of Oz, The;1939;Adventure|Children|Fantasy|Musical;James Cameron;3.9
+Citizen Kane;1941;Drama|Mystery;Denis Villeneuve;4.0
+2001: A Space Odyssey;1968;Adventure|Drama|Sci-Fi;James Cameron;3.9
+It's a Wonderful Life;1946;Children|Drama|Fantasy|Romance;Ridley Scott;4.0
+Mary Poppins;1964;Children|Comedy|Fantasy|Musical;George Lucas;3.9
+Sound of Music, The;1965;Musical|Romance;Denis Villeneuve;3.9
+Die Hard;1988;Action|Crime|Thriller;Ridley Scott;3.9
+Willy Wonka & the Chocolate Factory;1971;Children|Comedy|Fantasy|Musical;James Cameron;3.9
+Fish Called Wanda, A;1988;Comedy|Crime;Ridley Scott;3.9
+Monty Python's Life of Brian;1979;Comedy;Quentin Tarantino;3.9
+Reservoir Dogs;1992;Crime|Mystery|Thriller;Denis Villeneuve;4.2
+Platoon;1986;Drama|War;Ridley Scott;4.0
+E.T. the Extra-Terrestrial;1982;Children|Drama|Sci-Fi;Peter Jackson;3.8
+Top Gun;1986;Action|Romance;Peter Jackson;3.3
+Abyss, The;1989;Action|Adventure|Sci-Fi|Thriller;Ridley Scott;3.5
+Monty Python and the Holy Grail;1975;Adventure|Comedy|Fantasy;Ridley Scott;4.2
+Wallace & Gromit: The Wrong Trousers;1993;Animation|Children|Comedy|Crime;Francis Ford Coppola;4.0
+One Flew Over the Cuckoo's Nest;1975;Drama;Steven Spielberg;4.2
+Star Wars: Episode V - The Empire Strikes Back;1980;Action|Adventure|Sci-Fi;Quentin Tarantino;4.2
+Princess Bride, The;1987;Action|Adventure|Comedy|Fantasy|Romance;Steven Spielberg;4.2
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark);1981;Action|Adventure;Peter Jackson;4.2
+Brazil;1985;Fantasy|Sci-Fi;Denis Villeneuve;4.2
+Aliens;1986;Action|Adventure|Horror|Sci-Fi;Ridley Scott;4.0
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il);1966;Action|Adventure|Western;Peter Jackson;4.1
+12 Angry Men;1957;Drama;Peter Jackson;4.1
+Clockwork Orange, A;1971;Crime|Drama|Sci-Fi|Thriller;Christopher Nolan;4.0
+To Kill a Mockingbird;1962;Drama;Ridley Scott;4.1
+Apocalypse Now;1979;Action|Drama|War;Martin Scorsese;4.2
+Star Wars: Episode VI - Return of the Jedi;1983;Action|Adventure|Sci-Fi;Francis Ford Coppola;4.1
+Goodfellas;1990;Crime|Drama;Steven Spielberg;4.2
+Alien;1979;Horror|Sci-Fi;James Cameron;4.0
+Army of Darkness;1993;Action|Adventure|Comedy|Fantasy|Horror;Denis Villeneuve;4.0
+Psycho;1960;Crime|Horror;Denis Villeneuve;4.0
+Blues Brothers, The;1980;Action|Comedy|Musical;Denis Villeneuve;3.8
+Godfather: Part II, The;1974;Crime|Drama;Martin Scorsese;4.3
+Full Metal Jacket;1987;Drama|War;Denis Villeneuve;4.1
+Amadeus;1984;Drama;Quentin Tarantino;4.2
+Annie Hall;1977;Comedy|Romance;Martin Scorsese;3.9
+Sting, The;1973;Comedy|Crime;Denis Villeneuve;4.0
+Terminator, The;1984;Action|Sci-Fi|Thriller;Martin Scorsese;3.9
+Dead Poets Society;1989;Drama;Christopher Nolan;4.0
+Graduate, The;1967;Comedy|Drama|Romance;James Cameron;4.1
+Chinatown;1974;Crime|Film-Noir|Mystery|Thriller;Quentin Tarantino;4.2
+Shining, The;1980;Horror;Quentin Tarantino;4.1
+Stand by Me;1986;Adventure|Drama;Martin Scorsese;4.0
+Groundhog Day;1993;Comedy|Fantasy|Romance;Denis Villeneuve;3.9
+Back to the Future;1985;Adventure|Comedy|Sci-Fi;Denis Villeneuve;4.0
+Cool Hand Luke;1967;Drama;Christopher Nolan;4.3
+Young Frankenstein;1974;Comedy|Fantasy;Denis Villeneuve;4.0
+Fantasia;1940;Animation|Children|Fantasy|Musical;Martin Scorsese;3.8
+This Is Spinal Tap;1984;Comedy;Quentin Tarantino;4.0
+Indiana Jones and the Last Crusade;1989;Action|Adventure;Steven Spielberg;4.0
+Field of Dreams;1989;Children|Drama|Fantasy;Francis Ford Coppola;3.5
+Butch Cassidy and the Sundance Kid;1969;Action|Western;Martin Scorsese;3.9
+When Harry Met Sally...;1989;Comedy|Romance;Denis Villeneuve;3.9
+Star Trek: First Contact;1996;Action|Adventure|Sci-Fi|Thriller;George Lucas;3.9
+Die Hard 2;1990;Action|Adventure|Thriller;Denis Villeneuve;3.4
+Star Trek II: The Wrath of Khan;1982;Action|Adventure|Sci-Fi|Thriller;Denis Villeneuve;3.8
+Batman Returns;1992;Action|Crime;Quentin Tarantino;3.0
+Grease;1978;Comedy|Musical|Romance;Steven Spielberg;3.1
+Jaws;1975;Action|Horror;Christopher Nolan;4.0
+Mars Attacks!;1996;Action|Comedy|Sci-Fi;George Lucas;3.1
+Jerry Maguire;1996;Drama|Romance;Peter Jackson;3.6
+Raising Arizona;1987;Comedy;Denis Villeneuve;4.0
+Scream;1996;Comedy|Horror|Mystery|Thriller;Steven Spielberg;3.2
+Donnie Brasco;1997;Crime|Drama;Christopher Nolan;3.7
+Liar Liar;1997;Comedy;Peter Jackson;3.0
+Grosse Pointe Blank;1997;Comedy|Crime|Romance;Peter Jackson;3.6
+Austin Powers: International Man of Mystery;1997;Action|Adventure|Comedy;Christopher Nolan;3.5
+Fifth Element, The;1997;Action|Adventure|Comedy|Sci-Fi;James Cameron;3.7
+Lost World: Jurassic Park, The;1997;Action|Adventure|Sci-Fi|Thriller;Ridley Scott;2.8
+Con Air;1997;Action|Adventure|Thriller;Francis Ford Coppola;3.0
+Face/Off;1997;Action|Crime|Drama|Thriller;Quentin Tarantino;3.4
+Men in Black (a.k.a. MIB);1997;Action|Comedy|Sci-Fi;George Lucas;3.5
+Contact;1997;Drama|Sci-Fi;Peter Jackson;3.7
+Air Force One;1997;Action|Thriller;Francis Ford Coppola;3.3
+Hunt for Red October, The;1990;Action|Adventure|Thriller;George Lucas;3.9
+L.A. Confidential;1997;Crime|Film-Noir|Mystery|Thriller;Ridley Scott;4.1
+Game, The;1997;Drama|Mystery|Thriller;Martin Scorsese;3.7
+Chasing Amy;1997;Comedy|Drama|Romance;Denis Villeneuve;3.6
+Full Monty, The;1997;Comedy|Drama;George Lucas;3.8
+The Devil's Advocate;1997;Drama|Mystery|Thriller;Ridley Scott;3.4
+Gattaca;1997;Drama|Sci-Fi|Thriller;Ridley Scott;4.0
+Starship Troopers;1997;Action|Sci-Fi;Martin Scorsese;3.3
+Truman Show, The;1998;Comedy|Drama|Sci-Fi;George Lucas;3.8
+Good Will Hunting;1997;Drama|Romance;Denis Villeneuve;4.1
+Titanic;1997;Drama|Romance;George Lucas;3.4
+Big Lebowski, The;1998;Comedy|Crime;Ridley Scott;3.9
+Wedding Singer, The;1998;Comedy|Romance;Quentin Tarantino;3.4
+As Good as It Gets;1997;Comedy|Drama|Romance;Peter Jackson;3.7
+Armageddon;1998;Action|Romance|Sci-Fi|Thriller;Martin Scorsese;3.1
+There's Something About Mary;1998;Comedy|Romance;Steven Spielberg;3.7
+Rocky;1976;Drama;Quentin Tarantino;3.8
+Rain Man;1988;Drama;Quentin Tarantino;3.8
+Breakfast Club, The;1985;Comedy|Drama;Quentin Tarantino;3.8
+Exorcist, The;1973;Horror|Mystery;James Cameron;3.8
+Lethal Weapon;1987;Action|Comedy|Crime|Drama;Steven Spielberg;3.7
+Goonies, The;1985;Action|Adventure|Children|Comedy|Fantasy;Ridley Scott;3.6
+Mask of Zorro, The;1998;Action|Comedy|Romance;James Cameron;3.1
+Back to the Future Part II;1989;Adventure|Comedy|Sci-Fi;Peter Jackson;3.5
+Back to the Future Part III;1990;Adventure|Comedy|Sci-Fi|Western;Steven Spielberg;3.4
+Saving Private Ryan;1998;Action|Drama|War;Denis Villeneuve;4.1
+Honey, I Shrunk the Kids;1989;Adventure|Children|Comedy|Fantasy|Sci-Fi;George Lucas;2.8
+Jungle Book, The;1967;Animation|Children|Comedy|Musical;Peter Jackson;3.8
+Lady and the Tramp;1955;Animation|Children|Comedy|Romance;James Cameron;3.4
+Little Mermaid, The;1989;Animation|Children|Comedy|Musical|Romance;Quentin Tarantino;3.4
+Splash;1984;Comedy|Fantasy|Romance;Ridley Scott;3.1
+Indiana Jones and the Temple of Doom;1984;Action|Adventure|Fantasy;Ridley Scott;3.6
+Blade;1998;Action|Horror|Thriller;Peter Jackson;3.4
+Beetlejuice;1988;Comedy|Fantasy;Ridley Scott;3.5
+Untouchables, The;1987;Action|Crime|Drama;Denis Villeneuve;3.9
+Few Good Men, A;1992;Crime|Drama|Thriller;Francis Ford Coppola;3.8
+Edward Scissorhands;1990;Drama|Fantasy|Romance;Steven Spielberg;3.7
+My Cousin Vinny;1992;Comedy;Ridley Scott;3.3
+Pleasantville;1998;Comedy|Drama|Fantasy;Ridley Scott;3.5
+Life Is Beautiful (La Vita è bella);1997;Comedy|Drama|Romance|War;Christopher Nolan;4.1
+American History X;1998;Crime|Drama;Peter Jackson;4.2
+Enemy of the State;1998;Action|Thriller;James Cameron;3.5
+Bug's Life, A;1998;Adventure|Animation|Children|Comedy;Martin Scorsese;3.5
+Rushmore;1998;Comedy|Drama;Ridley Scott;3.5
+Shakespeare in Love;1998;Comedy|Drama|Romance;James Cameron;3.8
+Romancing the Stone;1984;Action|Adventure|Comedy|Romance;Christopher Nolan;3.5
+Crocodile Dundee;1986;Adventure|Comedy;Denis Villeneuve;3.2
+Office Space;1999;Comedy|Crime;Peter Jackson;4.1
+Planet of the Apes;1968;Action|Drama|Sci-Fi;Steven Spielberg;3.8
+Lock, Stock & Two Smoking Barrels;1998;Comedy|Crime|Thriller;Ridley Scott;4.1
+Matrix, The;1999;Action|Sci-Fi|Thriller;Peter Jackson;4.2
+10 Things I Hate About You;1999;Comedy|Romance;James Cameron;3.5
+Election;1999;Comedy;Peter Jackson;3.7
+Mummy, The;1999;Action|Adventure|Comedy|Fantasy|Horror|Thriller;Steven Spielberg;3.1
+Star Wars: Episode I - The Phantom Menace;1999;Action|Adventure|Sci-Fi;Quentin Tarantino;3.1
+Superman;1978;Action|Adventure|Sci-Fi;Quentin Tarantino;3.6
+Rocky Horror Picture Show, The;1975;Comedy|Horror|Musical|Sci-Fi;Ridley Scott;3.3
+Notting Hill;1999;Comedy|Romance;Steven Spielberg;3.5
+Austin Powers: The Spy Who Shagged Me;1999;Action|Adventure|Comedy;Ridley Scott;3.2
+Run Lola Run (Lola rennt);1998;Action|Crime;Denis Villeneuve;4.0
+Arachnophobia;1990;Comedy|Horror;Denis Villeneuve;2.8
+South Park: Bigger, Longer and Uncut;1999;Animation|Comedy|Musical;Martin Scorsese;3.9
+Wild Wild West;1999;Action|Comedy|Sci-Fi|Western;George Lucas;2.2
+American Pie;1999;Comedy|Romance;George Lucas;3.4
+Blair Witch Project, The;1999;Drama|Horror|Thriller;Ridley Scott;2.8
+Eyes Wide Shut;1999;Drama|Mystery|Thriller;James Cameron;3.5
+Ghostbusters (a.k.a. Ghost Busters);1984;Action|Comedy|Sci-Fi;Peter Jackson;3.8
+Sixth Sense, The;1999;Drama|Horror|Mystery;James Cameron;3.9
+Airplane!;1980;Comedy;Denis Villeneuve;3.9
+Big;1988;Comedy|Drama|Fantasy|Romance;George Lucas;3.7
+Christmas Story, A;1983;Children|Comedy;Steven Spielberg;4.0
+American Beauty;1999;Drama|Romance;Ridley Scott;4.1
+Total Recall;1990;Action|Adventure|Sci-Fi|Thriller;Christopher Nolan;3.7
+Ferris Bueller's Day Off;1986;Comedy;James Cameron;3.8
+Goldfinger;1964;Action|Adventure|Thriller;George Lucas;3.8
+Fight Club;1999;Action|Crime|Drama|Thriller;Francis Ford Coppola;4.3
+RoboCop;1987;Action|Crime|Drama|Sci-Fi|Thriller;Steven Spielberg;3.4
+Who Framed Roger Rabbit?;1988;Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery;Martin Scorsese;3.6
+Being John Malkovich;1999;Comedy|Drama|Fantasy;Ridley Scott;4.0
+Spaceballs;1987;Comedy|Sci-Fi;Christopher Nolan;3.5
+Dogma;1999;Adventure|Comedy|Fantasy;Steven Spielberg;3.6
+Sleepy Hollow;1999;Fantasy|Horror|Mystery|Romance;George Lucas;3.5
+Toy Story 2;1999;Adventure|Animation|Children|Comedy|Fantasy;Christopher Nolan;3.9
+Green Mile, The;1999;Crime|Drama;Martin Scorsese;4.1
+Magnolia;1999;Drama;Christopher Nolan;3.7
+Galaxy Quest;1999;Adventure|Comedy|Sci-Fi;George Lucas;3.6
+Wayne's World;1992;Comedy;George Lucas;3.5
+Erin Brockovich;2000;Drama;Francis Ford Coppola;3.5
+Animal House;1978;Comedy;Martin Scorsese;3.7
+Close Encounters of the Third Kind;1977;Adventure|Drama|Sci-Fi;George Lucas;3.7
+High Fidelity;2000;Comedy|Drama|Romance;George Lucas;3.7
+Hook;1991;Adventure|Comedy|Fantasy;Denis Villeneuve;3.4
+Predator;1987;Action|Sci-Fi|Thriller;Steven Spielberg;3.6
+American Psycho;2000;Crime|Horror|Mystery|Thriller;Francis Ford Coppola;3.8
+Caddyshack;1980;Comedy;Steven Spielberg;3.8
+Gladiator;2000;Action|Adventure|Drama;Peter Jackson;3.9
+Mission: Impossible II;2000;Action|Adventure|Thriller;Steven Spielberg;2.7
+Blazing Saddles;1974;Comedy|Western;Francis Ford Coppola;3.9
+Gone in 60 Seconds;2000;Action|Crime;James Cameron;3.2
+Chicken Run;2000;Animation|Children|Comedy;Denis Villeneuve;3.6
+Patriot, The;2000;Action|Drama|War;Denis Villeneuve;3.4
+X-Men;2000;Action|Adventure|Sci-Fi;Peter Jackson;3.7
+Almost Famous;2000;Drama;Martin Scorsese;3.9
+Best in Show;2000;Comedy;Christopher Nolan;3.7
+Meet the Parents;2000;Comedy;Martin Scorsese;3.4
+Requiem for a Dream;2000;Drama;James Cameron;3.9
+Charlie's Angels;2000;Action|Comedy;James Cameron;2.7
+Unbreakable;2000;Drama|Sci-Fi;James Cameron;3.5
+Crouching Tiger, Hidden Dragon (Wo hu cang long);2000;Action|Drama|Romance;Francis Ford Coppola;3.8
+Snatch;2000;Comedy|Crime|Thriller;George Lucas;4.2
+What Women Want;2000;Comedy|Romance;Peter Jackson;3.1
+Cast Away;2000;Drama;Christopher Nolan;3.7
+Miss Congeniality;2000;Comedy|Crime;Francis Ford Coppola;3.1
+O Brother, Where Art Thou?;2000;Adventure|Comedy|Crime;George Lucas;3.8
+Traffic;2000;Crime|Drama|Thriller;Francis Ford Coppola;3.9
+Memento;2000;Mystery|Thriller;James Cameron;4.1
+Blow;2001;Crime|Drama;Christopher Nolan;3.8
+Bridget Jones's Diary;2001;Comedy|Drama|Romance;Steven Spielberg;3.6
+Scarface;1983;Action|Crime|Drama;Christopher Nolan;3.9
+Shrek;2001;Adventure|Animation|Children|Comedy|Fantasy|Romance;Quentin Tarantino;3.9
+Moulin Rouge;2001;Drama|Musical|Romance;Ridley Scott;3.6
+A.I. Artificial Intelligence;2001;Adventure|Drama|Sci-Fi;Christopher Nolan;3.3
+Legally Blonde;2001;Comedy|Romance;Quentin Tarantino;3.2
+Others, The;2001;Drama|Horror|Mystery|Thriller;Denis Villeneuve;3.6
+Training Day;2001;Crime|Drama|Thriller;Peter Jackson;3.8
+Zoolander;2001;Comedy;Martin Scorsese;3.5
+Mulholland Drive;2001;Crime|Drama|Film-Noir|Mystery|Thriller;Francis Ford Coppola;3.8
+Donnie Darko;2001;Drama|Mystery|Sci-Fi|Thriller;Francis Ford Coppola;4.0
+Monsters, Inc.;2001;Adventure|Animation|Children|Comedy|Fantasy;Martin Scorsese;3.9
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone);2001;Adventure|Children|Fantasy;Martin Scorsese;3.8
+Ocean's Eleven;2001;Crime|Thriller;Francis Ford Coppola;3.8
+Amelie (Fabuleux destin d'Amélie Poulain, Le);2001;Comedy|Romance;Peter Jackson;4.2
+Royal Tenenbaums, The;2001;Comedy|Drama;Denis Villeneuve;3.7
+Lord of the Rings: The Fellowship of the Ring, The;2001;Adventure|Fantasy;Martin Scorsese;4.1
+Beautiful Mind, A;2001;Drama|Romance;Denis Villeneuve;4.0
+Ice Age;2002;Adventure|Animation|Children|Comedy;Peter Jackson;3.7
+My Big Fat Greek Wedding;2002;Comedy|Romance;Ridley Scott;3.3
+Spider-Man;2002;Action|Adventure|Sci-Fi|Thriller;James Cameron;3.5
+Star Wars: Episode II - Attack of the Clones;2002;Action|Adventure|Sci-Fi|IMAX;Denis Villeneuve;3.2
+Bourne Identity, The;2002;Action|Mystery|Thriller;Peter Jackson;3.8
+Minority Report;2002;Action|Crime|Mystery|Sci-Fi|Thriller;James Cameron;3.6
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2);2002;Action|Comedy|Sci-Fi;James Cameron;3.0
+Austin Powers in Goldmember;2002;Comedy;Ridley Scott;2.8
+Signs;2002;Horror|Sci-Fi|Thriller;Peter Jackson;3.2
+Spirited Away (Sen to Chihiro no kamikakushi);2001;Adventure|Animation|Fantasy;Peter Jackson;4.2
+Bowling for Columbine;2002;Documentary;Martin Scorsese;3.8
+Harry Potter and the Chamber of Secrets;2002;Adventure|Fantasy;Peter Jackson;3.6
+Lord of the Rings: The Two Towers, The;2002;Adventure|Fantasy;Steven Spielberg;4.0
+Gangs of New York;2002;Crime|Drama;George Lucas;3.5
+Catch Me If You Can;2002;Crime|Drama;James Cameron;3.9
+City of God (Cidade de Deus);2002;Action|Adventure|Crime|Drama|Thriller;Martin Scorsese;4.1
+X2: X-Men United;2003;Action|Adventure|Sci-Fi|Thriller;James Cameron;3.7
+Matrix Reloaded, The;2003;Action|Adventure|Sci-Fi|Thriller|IMAX;Francis Ford Coppola;3.4
+Bruce Almighty;2003;Comedy|Drama|Fantasy|Romance;Peter Jackson;3.3
+Finding Nemo;2003;Adventure|Animation|Children|Comedy;George Lucas;4.0
+Italian Job, The;2003;Action|Crime;Denis Villeneuve;3.6
+28 Days Later;2002;Action|Horror|Sci-Fi;Francis Ford Coppola;4.0
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;Action|Adventure|Comedy|Fantasy;Quentin Tarantino;3.8
+Lost in Translation;2003;Comedy|Drama|Romance;Martin Scorsese;4.0
+School of Rock;2003;Comedy|Musical;George Lucas;3.4
+Mystic River;2003;Crime|Drama|Mystery;Christopher Nolan;3.7
+Kill Bill: Vol. 1;2003;Action|Crime|Thriller;Christopher Nolan;4.0
+Matrix Revolutions, The;2003;Action|Adventure|Sci-Fi|Thriller|IMAX;Denis Villeneuve;3.2
+Love Actually;2003;Comedy|Drama|Romance;Steven Spielberg;3.8
+Last Samurai, The;2003;Action|Adventure|Drama|War;Steven Spielberg;3.9
+Big Fish;2003;Drama|Fantasy|Romance;Denis Villeneuve;3.8
+Lord of the Rings: The Return of the King, The;2003;Action|Adventure|Drama|Fantasy;Martin Scorsese;4.1
+Eternal Sunshine of the Spotless Mind;2004;Drama|Romance|Sci-Fi;Denis Villeneuve;4.2
+Kill Bill: Vol. 2;2004;Action|Drama|Thriller;George Lucas;3.9
+Shrek 2;2004;Adventure|Animation|Children|Comedy|Musical|Romance;James Cameron;3.6
+Harry Potter and the Prisoner of Azkaban;2004;Adventure|Fantasy|IMAX;Peter Jackson;3.9
+Spider-Man 2;2004;Action|Adventure|Sci-Fi|IMAX;Quentin Tarantino;3.8
+Anchorman: The Legend of Ron Burgundy;2004;Comedy;Denis Villeneuve;3.8
+I, Robot;2004;Action|Adventure|Sci-Fi|Thriller;George Lucas;3.5
+Bourne Supremacy, The;2004;Action|Crime|Thriller;James Cameron;3.8
+Shaun of the Dead;2004;Comedy|Horror;George Lucas;4.0
+Incredibles, The;2004;Action|Adventure|Animation|Children|Comedy;Denis Villeneuve;3.8
+Million Dollar Baby;2004;Drama;Steven Spielberg;3.8
+Charlie and the Chocolate Factory;2005;Adventure|Children|Comedy|Fantasy|IMAX;James Cameron;3.0
+Sin City;2005;Action|Crime|Film-Noir|Mystery|Thriller;Martin Scorsese;3.9
+Star Wars: Episode III - Revenge of the Sith;2005;Action|Adventure|Sci-Fi;Martin Scorsese;3.4
+Mr. & Mrs. Smith;2005;Action|Adventure|Comedy|Romance;Francis Ford Coppola;3.3
+Batman Begins;2005;Action|Crime|IMAX;Ridley Scott;3.9
+Wedding Crashers;2005;Comedy|Romance;Quentin Tarantino;3.5
+40-Year-Old Virgin, The;2005;Comedy|Romance;Peter Jackson;3.5
+Harry Potter and the Goblet of Fire;2005;Adventure|Fantasy|Thriller|IMAX;Martin Scorsese;3.8
+Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The;2005;Adventure|Children|Fantasy;Peter Jackson;3.4
+V for Vendetta;2006;Action|Sci-Fi|Thriller|IMAX;Martin Scorsese;3.9
+X-Men: The Last Stand;2006;Action|Sci-Fi|Thriller;Martin Scorsese;3.4
+Pirates of the Caribbean: Dead Man's Chest;2006;Action|Adventure|Fantasy;Quentin Tarantino;3.5
+Little Miss Sunshine;2006;Adventure|Comedy|Drama;Martin Scorsese;3.9
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan;2006;Comedy;Christopher Nolan;3.3
+Pan's Labyrinth (Laberinto del fauno, El);2006;Drama|Fantasy|Thriller;Steven Spielberg;3.8
+Departed, The;2006;Crime|Drama|Thriller;Francis Ford Coppola;4.3
+Children of Men;2006;Action|Adventure|Drama|Sci-Fi|Thriller;James Cameron;3.9
+Prestige, The;2006;Drama|Mystery|Sci-Fi|Thriller;George Lucas;4.0
+Casino Royale;2006;Action|Adventure|Thriller;George Lucas;3.9
+Blood Diamond;2006;Action|Adventure|Crime|Drama|Thriller|War;Francis Ford Coppola;3.8
+Ratatouille;2007;Animation|Children|Drama;Steven Spielberg;3.9
+Hot Fuzz;2007;Action|Comedy|Crime|Mystery;Steven Spielberg;4.0
+300;2007;Action|Fantasy|War|IMAX;Martin Scorsese;3.7
+Knocked Up;2007;Comedy|Drama|Romance;Ridley Scott;3.7
+Pirates of the Caribbean: At World's End;2007;Action|Adventure|Comedy|Fantasy;Ridley Scott;3.4
+Harry Potter and the Order of the Phoenix;2007;Adventure|Drama|Fantasy|IMAX;Ridley Scott;3.9
+Bourne Ultimatum, The;2007;Action|Crime|Thriller;Christopher Nolan;3.7
+Superbad;2007;Comedy;Denis Villeneuve;3.9
+No Country for Old Men;2007;Crime|Drama;Ridley Scott;3.9
+I Am Legend;2007;Action|Horror|Sci-Fi|Thriller|IMAX;Denis Villeneuve;3.5
+Juno;2007;Comedy|Drama|Romance;James Cameron;3.8
+Dark Knight, The;2008;Action|Crime|Drama|IMAX;Ridley Scott;4.2
+Iron Man;2008;Action|Adventure|Sci-Fi;Denis Villeneuve;3.8
+Kung Fu Panda;2008;Action|Animation|Children|Comedy|IMAX;Francis Ford Coppola;3.4
+WALL·E;2008;Adventure|Animation|Children|Romance|Sci-Fi;James Cameron;4.1
+Slumdog Millionaire;2008;Crime|Drama|Romance;Francis Ford Coppola;3.8
+Inglourious Basterds;2009;Action|Drama|War;James Cameron;4.1
+Star Trek;2009;Action|Adventure|Sci-Fi|IMAX;Ridley Scott;3.9
+Up;2009;Adventure|Animation|Children|Drama;Peter Jackson;4.0
+Hangover, The;2009;Comedy|Crime;Peter Jackson;3.6
+Harry Potter and the Half-Blood Prince;2009;Adventure|Fantasy|Mystery|Romance|IMAX;Peter Jackson;3.9
+District 9;2009;Mystery|Sci-Fi|Thriller;Quentin Tarantino;3.8
+Zombieland;2009;Action|Comedy|Horror;James Cameron;3.9
+Avatar;2009;Action|Adventure|Sci-Fi|IMAX;Ridley Scott;3.6
+Sherlock Holmes;2009;Action|Crime|Mystery|Thriller;Martin Scorsese;3.9
+Shutter Island;2010;Drama|Mystery|Thriller;Denis Villeneuve;4.0
+How to Train Your Dragon;2010;Adventure|Animation|Children|Fantasy|IMAX;Ridley Scott;3.9
+Toy Story 3;2010;Adventure|Animation|Children|Comedy|Fantasy|IMAX;Ridley Scott;4.1
+Inception;2010;Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX;Quentin Tarantino;4.1
+Social Network, The;2010;Drama;Denis Villeneuve;3.9
+King's Speech, The;2010;Drama;Steven Spielberg;4.0
+Avengers, The;2012;Action|Adventure|Sci-Fi|IMAX;Peter Jackson;3.9
+The Hunger Games;2012;Action|Adventure|Drama|Sci-Fi|Thriller;James Cameron;3.4
+Dark Knight Rises, The;2012;Action|Adventure|Crime|IMAX;Francis Ford Coppola;4.0
+Django Unchained;2012;Action|Drama|Western;Christopher Nolan;3.9
+Wolf of Wall Street, The;2013;Comedy|Crime|Drama;Ridley Scott;3.9
+Grand Budapest Hotel, The;2014;Comedy|Drama;Peter Jackson;3.8
+Interstellar;2014;Sci-Fi|IMAX;Christopher Nolan;4.0
+Guardians of the Galaxy;2014;Action|Adventure|Sci-Fi;Francis Ford Coppola;4.1
+Deadpool;2016;Action|Adventure|Comedy|Sci-Fi;Christopher Nolan;3.8

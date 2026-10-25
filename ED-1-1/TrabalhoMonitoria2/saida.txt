@@ -1,0 +1,92 @@
+Sucesso! 435 filmes carregados na memoria.
+
+--- SISTEMA DE ORDENACAO DE FILMES ---
+Escolha o criterio de ordenacao:
+1. Titulo
+2. Ano
+3. Avaliacao (Rating)
+Sua escolha: 3
+
+Escolha o metodo de ordenacao:
+1. Quick Sort
+2. Heap Sort
+3. Merge Sort
+Sua escolha: 1
+
+Iniciando ordenacao...
+Ordenacao concluida em 0.002225 segundos.
+
+--- TOP 10 FILMES ---
+ 1. Shawshank Redemption, The (1994) | Diretor: Christopher Nolan | Nota: 4.4
+ 2. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Diretor: James Cameron | Nota: 4.3
+ 3. Godfather, The (1972) | Diretor: Martin Scorsese | Nota: 4.3
+ 4. Rear Window (1954) | Diretor: Denis Villeneuve | Nota: 4.3
+ 5. Godfather: Part II, The (1974) | Diretor: Martin Scorsese | Nota: 4.3
+ 6. Cool Hand Luke (1967) | Diretor: Christopher Nolan | Nota: 4.3
+ 7. Fight Club (1999) | Diretor: Francis Ford Coppola | Nota: 4.3
+ 8. Departed, The (2006) | Diretor: Francis Ford Coppola | Nota: 4.3
+ 9. Pulp Fiction (1994) | Diretor: Peter Jackson | Nota: 4.2
+10. Usual Suspects, The (1995) | Diretor: Denis Villeneuve | Nota: 4.2
+
+==============================================================================================
+==============================================================================================
+
+
+--- SISTEMA DE ORDENACAO DE FILMES ---
+Escolha o criterio de ordenacao:
+1. Titulo
+2. Ano
+3. Avaliacao (Rating)
+Sua escolha: 3
+
+Escolha o metodo de ordenacao:
+1. Quick Sort
+2. Heap Sort
+3. Merge Sort
+Sua escolha: 2
+
+Iniciando ordenacao...
+Ordenacao concluida em 0.001044 segundos.
+
+--- TOP 10 FILMES ---
+ 1. Shawshank Redemption, The (1994) | Diretor: Christopher Nolan | Nota: 4.4
+ 2. Godfather, The (1972) | Diretor: Martin Scorsese | Nota: 4.3
+ 3. Fight Club (1999) | Diretor: Francis Ford Coppola | Nota: 4.3
+ 4. Cool Hand Luke (1967) | Diretor: Christopher Nolan | Nota: 4.3
+ 5. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Diretor: James Cameron | Nota: 4.3
+ 6. Rear Window (1954) | Diretor: Denis Villeneuve | Nota: 4.3
+ 7. Godfather: Part II, The (1974) | Diretor: Martin Scorsese | Nota: 4.3
+ 8. Departed, The (2006) | Diretor: Francis Ford Coppola | Nota: 4.3
+ 9. Reservoir Dogs (1992) | Diretor: Denis Villeneuve | Nota: 4.2
+10. Amadeus (1984) | Diretor: Quentin Tarantino | Nota: 4.2
+
+==============================================================================================
+==============================================================================================
+
+--- SISTEMA DE ORDENACAO DE FILMES ---
+Escolha o criterio de ordenacao:
+1. Titulo
+2. Ano
+3. Avaliacao (Rating)
+Sua escolha: 3
+
+Escolha o metodo de ordenacao:
+1. Quick Sort
+2. Heap Sort
+3. Merge Sort
+Sua escolha: 3
+
+Iniciando ordenacao...
+Ordenacao concluida em 0.001375 segundos.
+
+--- TOP 10 FILMES ---
+ 1. Shawshank Redemption, The (1994) | Diretor: Christopher Nolan | Nota: 4.4
+ 2. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Diretor: James Cameron | Nota: 4.3
+ 3. Godfather, The (1972) | Diretor: Martin Scorsese | Nota: 4.3
+ 4. Rear Window (1954) | Diretor: Denis Villeneuve | Nota: 4.3
+ 5. Godfather: Part II, The (1974) | Diretor: Martin Scorsese | Nota: 4.3
+ 6. Cool Hand Luke (1967) | Diretor: Christopher Nolan | Nota: 4.3
+ 7. Fight Club (1999) | Diretor: Francis Ford Coppola | Nota: 4.3
+ 8. Departed, The (2006) | Diretor: Francis Ford Coppola | Nota: 4.3
+ 9. Usual Suspects, The (1995) | Diretor: Denis Villeneuve | Nota: 4.2
+10. Star Wars: Episode IV - A New Hope (1977) | Diretor: Martin Scorsese | Nota: 4.2
