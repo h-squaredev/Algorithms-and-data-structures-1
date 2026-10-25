@@ -4,7 +4,7 @@ Materiais e trabalhos da disciplina **ED1** (Ciência da Computação, UFMT).
 
 ## Conteúdo
 
-- ED-1-1
-- ED-1-2
+- ED-1-1 (1º vez fazendo)
+- ED-1-2 (2º vez fazendo)
 
 > Repositório organizado automaticamente em 25/10/2026. Edite este README para descrever o que cada pasta contém.
