@@ -1,10 +1,17 @@
-# ED1
+# Estrutura de Dados 1 (UFMT)
 
-Materiais e trabalhos da disciplina **Estrutura de Dados 1** (Ciência da Computação, UFMT).
+Estruturas de dados em C.
 
-## Conteúdo
+## Trabalhos com relatório
+- **ED-1-1/Trabalho ordenação**: análise de métodos de ordenação (PDF com o relatório).
+- **ED-1-1/covid-heap-analysis**: dados de COVID com heap (PDF com o relatório).
+- **ED-1-1/TrabalhoMonitoria2**: ordenação de dados de filmes (PDF com a análise).
+- **ED-1-1/trabalhoAnalise**: lista estática x lista dinâmica (PDF).
 
-- ED-1-1 (1º vez fazendo)
-- ED-1-2 (2º vez fazendo)
+## Estruturas e algoritmos
+- Ordenação: bubble, shell, merge, quick e heap (aulas 11 a 19).
+- Árvore binária e árvore de vários filhos.
+- ED-1-2: listas (vetor, alocação dinâmica, encadeada), fila encadeada (TAD), BFS e um desafio com TAD de aluno.
+- Exercícios do beecrowd.
 
-> Repositório organizado automaticamente em 25/10/2026.
+Cada pasta de aula tem os arquivos .c e .h. Para compilar um exercício: gcc arquivo.c -o programa.
