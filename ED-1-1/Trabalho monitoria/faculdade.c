@@ -4,7 +4,7 @@ prof. Ivairton
 Trabalho Monitoria - ED1
 Data: 22/12/2025
 
-Aluno: Humberto Henrique Castro Rocha - 202512722003
+Aluno: Humberto Henrique Castro Rocha
 
 Sistema de Análise Acadêmica
 */
